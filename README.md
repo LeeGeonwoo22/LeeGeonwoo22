@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LeeGeonwoo22
-- 👀 Javascript, React
-- 🌱 Javascript, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+꿈꾸는 개발자 이건우 라고합니다. ㅎㅎ
+
 
 <!---
 LeeGeonwoo22/LeeGeonwoo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
