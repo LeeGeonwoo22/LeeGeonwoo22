@@ -1,12 +1,11 @@
-꿈꾸는 개발자 이건우 라고합니다. ㅎㅎ
+```
+"시간을 낭비하는 것 만큼 위험한 것도 없다, 내가 얼마나 많은 노력을 했는지 안다면, 
+당신은 절대 나를 천재라고 부르지 못할 것이다, 선긋기를 하지 않고는, 
+드로잉을 연습하지 않고는 하루를 보내지 말라 "
+```
 
-어떤 악조건속에서도 
+라는 미켈란젤로의 말이있다. 그가 하루에 선긋기 , 드로잉연습을 게을리 하지않은것처럼
 
-1일 1커밋, 하루 1학습, 개발 
+나도 하루에 개발은 못하더라도 최소 그려보고자 하루에 한번씩 개발관련 커밋을 해보자..!
 
-성장하는 개발자가 되겠습니다.
-
-<!---
-LeeGeonwoo22/LeeGeonwoo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+미래의 개발자인 나를 위해 !
