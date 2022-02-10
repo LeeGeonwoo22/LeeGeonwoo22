@@ -65,3 +65,10 @@
 </div>
 
 
+# GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeGeonwoo22&theme=kacho_ga&show_icons=true"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGeonwoo22&theme=kacho_ga&show_icons=true"></img>
+</p>
+
