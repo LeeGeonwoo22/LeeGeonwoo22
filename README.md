@@ -44,11 +44,10 @@
 ## 👨‍🎨 Front-end Stack
 
 <div align=left> 
-	<img 
-src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+	  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black">    	
-	<img src="https://img.shields.io/badge/styled_Component-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"   
+	  <img src="https://img.shields.io/badge/styled_Component-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"   
 </div>
 
 
@@ -56,9 +55,8 @@ src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&lo
 ## 👨‍🔧 Back-end Stack
 
 <div align=left> 
-	<img 
-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=			Express&logoColor=white">    	
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">    	
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">    	
 </div>
