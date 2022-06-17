@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&lo
 <div align=left> 
 	<img 
 src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=			Express&logoColor=white">    	
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">    	
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">    	
 </div>
